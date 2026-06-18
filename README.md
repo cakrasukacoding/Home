@@ -12,13 +12,15 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=USERNAME)
 ![Followers](https://img.shields.io/github/followers/USERNAME)
 
+
+## about Me 💤
 ```yaml
-Name: Ranzx
-Role: Bot Developer
-Language: JavaScript
-Editor: VS Code
-OS: Ubuntu
-Status: Online ☕
+Name: Cakrawala
+Role: Designer 
+Language: JavaScript,HTML,CSS
+Editor: VS Code 
+OS: Ubuntu, DEBIAN
+Status: Sleeping 💤
 Favorite: Anime & Coding
 ```
 
