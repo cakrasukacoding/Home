@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://files.catbox.moe/gbz5op.jpg" alt="Banner">
+</p>
+
+<h1 align="center"> Ranzx • Development</h1>
+
+<p align="center">
+  WhatsApp Bot Developer • JavaScript • HTML • CSS
+</p>
 ## Ranzx Profile
 
 ![Profile Views](https://komarev.com/ghpvc/?username=USERNAME)
