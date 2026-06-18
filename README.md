@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/gbz5op.jpg" alt="Banner">
+  <img src="https://files.catbox.moe/v6r1bf.jpg" alt="Banner">
 </p>
 
 <h1 align="center"> Ranzx • Development</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello+it's+me+Cakra;HTML+%7C+JavaScript+%7C+CSS">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello+it's+me+Cakra...;HTML+%7C+JavaScript+%7C+CSS+%7C+Design">
 </p>
 
 ## Ranzx Profile
@@ -17,6 +17,19 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=USERNAME)
 ![Followers](https://img.shields.io/github/followers/USERNAME)
 
+## My Skill 
+
+![My Skills](https://skillicons.dev/icons?perline=9&i=html,css,js,nodejs)
+
+## Tools
+
+![My Skills](https://skillicons.dev/icons?i=vscode,github,npm,vercel)
+
+## 📊 Statistics
+<img src="https://github-readme-stats.vercel.app/api?username=cakrasukacoding&theme=github_dark&show_icons=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cakrasukacoding&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=FFFFFF" />
+</p>
 
 ## about Me 💤
 ```yaml
@@ -25,18 +38,29 @@ Role: Designer
 Language: JavaScript,HTML,CSS
 Editor: VS Code 
 OS: Ubuntu, DEBIAN
+Hobby : Watch anime
 Status: Sleeping 💤
 Favorite: Anime & Coding
 ```
 
+## Fun Fact About Me 💻
+
+<p align="center">
+  <img src="https://files.catbox.moe/iqjwuo.jpg" alt="Banner">
+</p>
+
+aku suka membaca Manga or komik karna aku suka Aku terkadang malu malu dengan lingkungan baru
+aku Kadang tidak suka bicara kepada orang lain
+
+
 ## 🌐 Social Media
 
-[![TikTok](https://img.shields.io/badge/TikTok-@ranzx-000000?style=for-the-badge&logo=tiktok)](https://tiktok.com/@razzziy)
+[![TikTok](https://img.shields.io/badge/TikTok-@razzziy-000000?style=for-the-badge&logo=tiktok)](https://tiktok.com/@razzziy)
 
-[![YouTube](https://img.shields.io/badge/YouTube-Ranzx-red?style=for-the-badge&logo=youtube)](https://youtube.com/@its_mecakra)
+[![YouTube](https://img.shields.io/badge/YouTube-itsmecakra-red?style=for-the-badge&logo=youtube)](https://youtube.com/@its_mecakra)
 
-[![Instagram](https://img.shields.io/badge/Instagram-ranzx-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/its_mecakra)
+[![Instagram](https://img.shields.io/badge/Instagram-itsmecakra-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/its_mecakra)
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact_Me-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/6285810537050)
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ranzx-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/@ZxzxXWnCfRtyzxXx)
+[![Telegram](https://img.shields.io/badge/Telegram-@itsmeCakra-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/@ZxzxXWnCfRtyzxXx)
